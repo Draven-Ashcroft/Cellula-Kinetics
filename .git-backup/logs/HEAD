@@ -1,0 +1,17 @@
+0000000000000000000000000000000000000000 d3660e3e21f56d51454d83766db970580fd50413 alphahector5 <59864421-alphahector5@users.noreply.replit.com> 1780330306 +0000	branch: Created from origin/main
+d3660e3e21f56d51454d83766db970580fd50413 d3660e3e21f56d51454d83766db970580fd50413 alphahector5 <59864421-alphahector5@users.noreply.replit.com> 1780330306 +0000	checkout: moving from main to main
+d3660e3e21f56d51454d83766db970580fd50413 6ffbf36e2448de501fee8bdaf59186c2e3c07b4b Replit Agent <agent@replit.com> 1780330923 +0000	commit: Ensure ovulation occurs only once per menstrual cycle when fertilization is enabled
+6ffbf36e2448de501fee8bdaf59186c2e3c07b4b 2a247c0994064ab18514bad29cd9f81c662d639d Replit Agent <agent@replit.com> 1780331110 +0000	commit: Lock the cycle immediately upon fertilization to prevent new ova spawning
+2a247c0994064ab18514bad29cd9f81c662d639d 45ef6134c597cf3053c875c0e0a0a40d96d96039 Replit Agent <agent@replit.com> 1784137754 +0000	commit: Update simulation to accurately reflect fertilization and pregnancy stages
+45ef6134c597cf3053c875c0e0a0a40d96d96039 0cf2d91d64eec729506385c860072f5223d3792a Replit Agent <agent@replit.com> 1784137868 +0000	commit: Add a button to reset the fertilization cycle and improve mode toggling
+0cf2d91d64eec729506385c860072f5223d3792a 4ad3a93794df0fe7f884d308a92b4b84a8248172 Draven <Draven.solis@outlook.in> 1784141637 +0000	pull --quiet --no-edit --rebase origin main (start): checkout 4ad3a93794df0fe7f884d308a92b4b84a8248172
+4ad3a93794df0fe7f884d308a92b4b84a8248172 0cf2d91d64eec729506385c860072f5223d3792a Draven <Draven.solis@outlook.in> 1784141637 +0000	rebase (abort): returning to refs/heads/main
+0cf2d91d64eec729506385c860072f5223d3792a 0cf2d91d64eec729506385c860072f5223d3792a Draven <Draven.solis@outlook.in> 1784141678 +0000	reset: moving to HEAD
+0cf2d91d64eec729506385c860072f5223d3792a 92d7eab9cfa28904e5eaa9b02eca1108b7252224 Draven-Ashcroft <mrentomologist@gmail.com> 1784160157 +0000	commit: Updated, Fixed Bugs
+92d7eab9cfa28904e5eaa9b02eca1108b7252224 0625fd4a6116b9002a1320a5ae8775cafdb079e2 Draven-Ashcroft <mrentomologist@gmail.com> 1784161861 +0000	checkout: moving from main to replit-agent
+0625fd4a6116b9002a1320a5ae8775cafdb079e2 92d7eab9cfa28904e5eaa9b02eca1108b7252224 Draven-Ashcroft <mrentomologist@gmail.com> 1784161885 +0000	checkout: moving from replit-agent to main
+92d7eab9cfa28904e5eaa9b02eca1108b7252224 2778a79f147f5d1e4be9b98ec8e648d9febe022c Replit Agent <agent@replit.com> 1784179654 +0000	commit: Add a cycle speed slider and reset button to the simulation
+2778a79f147f5d1e4be9b98ec8e648d9febe022c 1b5d1e5334acaf27e68419fc30a8144aabf0a107 Replit Agent <agent@replit.com> 1784181805 +0000	commit: Add a visual progress track for the menstrual cycle
+1b5d1e5334acaf27e68419fc30a8144aabf0a107 124a7673c24836b2e4a6d61ef3389cf4ee57ac15 Replit Agent <agent@replit.com> 1784182419 +0000	commit: Published your App
+124a7673c24836b2e4a6d61ef3389cf4ee57ac15 0a63a6d4a341564028ff54884eb655e68bec3741 Replit Agent <agent@replit.com> 1784187872 +0000	commit: Improve accuracy and fix visual glitches in fertilization tracking
+0a63a6d4a341564028ff54884eb655e68bec3741 a4ded037fb8e9a95a6e82b9abb7ac1958f685fb8 Draven-Ashcroft <mrentomologist@gmail.com> 1784213170 +0000	commit: Configure Neon database
