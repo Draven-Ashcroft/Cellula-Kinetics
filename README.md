@@ -1,132 +1,34 @@
-# 🧬 Cellula Kinetics
+<p align="center">
+  <img src="assets/repo-banner.png" alt="Cellula-Kinetics-Meiosis Banner" width="100%">
+</p>
 
-Interactive cellular dynamics visualizer exploring how cells move, grow, and interact through real-time simulation and animation.
+# 🧬 Cellula-Kinetics: Meiosis
 
----
-
-## ✨ Live Demo
-
-[→ Open Visualizer](https://replit.com/@mrentomologist/Cellula-Kinetics)
+**Interactive Meiotic Division Simulator**
 
 ---
 
-## 🎯 What It Does
+### 📖 Overview
+**Cellula-Kinetics** is an interactive educational tool designed to visualize the complex stages of meiotic cell division. It transforms abstract biological processes into a guided, browser-based simulation, making chromosome behavior and genetic recombination intuitive for students and educators.
 
-- 🔬 Watch cells evolve in real-time simulation
-- 📊 Visualize cellular kinetics and molecular interactions
-- 🎮 Interactive controls for simulation parameters
-- ⚡ Dynamic population modeling and behavior analysis
-
----
-
-## 🚀 Quick Start
-
-```bash
-pnpm install
-pnpm --filter @workspace/cellula-kinetics-app run dev
-```
+### ✨ Core Features
+* **Interactive Stages**: Step-by-step visualization of Meiosis I and II.
+* **Chromosome Dynamics**: Real-time modeling of homologous pairing, crossing over, and segregation.
+* **Educational Workflow**: Guided interface designed for clarity and scientific accuracy.
+* **Responsive Design**: Optimized for seamless use across desktop and mobile browsers.
 
 ---
 
-## 🛠️ Tech Stack
-
-```
-Frontend  → React 19 + Vite
-Backend   → Express.js + Node.js
-Database  → PostgreSQL + Drizzle ORM
-Language  → TypeScript
-Styling   → Tailwind CSS + Framer Motion
-```
+### 🤝 Credits
+* **Replit**: Environment for application development and code construction.
+* **GitHub**: Version control and repository management.
+* **Vercel**: Deployment and cloud hosting.
+* **OpenAI**: Scientific debugging, testing, and optimization.
 
 ---
 
-## 📁 Project Structure
+### 📜 License
+GPL-3.0
 
-```
-artifacts/
-  ├── api-server/              Express REST API backend
-  └── cellula-kinetics-app/    React visualization application
-
-lib/
-  ├── db/                      Database schemas & ORM layer
-  └── integrations/            External service connectors
-
-scripts/                        Build utilities & CLI tools
-```
-
----
-
-## 💻 Available Commands
-
-| Command | Purpose |
-|---------|---------|
-| `pnpm install` | Install all dependencies |
-| `pnpm run build` | Build all packages |
-| `pnpm run typecheck` | Run TypeScript type checking |
-| `pnpm --filter @workspace/cellula-kinetics-app run dev` | Start dev server for visualization app |
-| `pnpm --filter @workspace/api-server run dev` | Start development API server |
-
----
-
-## ⚙️ Development
-
-### Starting the Application
-
-**Frontend (Visualization):**
-```bash
-pnpm --filter @workspace/cellula-kinetics-app run dev
-```
-
-**Backend (API Server):**
-```bash
-pnpm --filter @workspace/api-server run dev
-```
-
-### Building for Production
-
-```bash
-pnpm run build
-```
-
-### Type Checking
-
-```bash
-pnpm run typecheck
-```
-
----
-
-## 📦 Monorepo Setup
-
-This project uses **pnpm workspaces** with a shared dependency catalog:
-
-- **Workspace packages** in `artifacts/`, `lib/`, and `scripts/`
-- **Catalog versioning** for consistent dependency versions
-- **Supply-chain security** with 1-day minimum release age policy
-
----
-
-## 🔐 Security
-
-This project includes supply-chain attack defenses:
-- Minimum 1-day release age for npm packages
-- Trusted package allowlist (e.g., `@replit/*`, `stripe-replit-sync`)
-- Platform-specific dependency optimization for Replit environment
-
----
-
-## 📝 License
-
-MIT
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to open issues and submit pull requests.
-
----
-
-## 📞 Support
-
-For questions or issues, visit the [GitHub Issues page](https://github.com/Draven-Solis/Cellula-Kinetics/issues).
+### 👨‍🏫 Author
+**Draven-Ashcroft** | DIPS Chain of Institutions, Tanda
