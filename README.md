@@ -2,14 +2,14 @@
   <img src="assets/repo-banner.png" alt="Cellula-Kinetics-Meiosis Banner" width="100%">
 </p>
 
-# 🧬 Genesis: Elucidator
+# 🧬 Meiosis Genesis: Elucidator
 
 **Interactive Meiotic Division Simulator**
 
 ---
 
 ### 📖 Overview
-**Cellula-Kinetics** is an interactive educational tool designed to visualize the complex stages of meiotic cell division. It transforms abstract biological processes into a guided, browser-based simulation, making chromosome behavior and genetic recombination intuitive for students and educators.
+**Meiosis Genesis: Elucidator** is an interactive educational tool designed to visualize the complex stages of meiotic cell division. It transforms abstract biological processes into a guided, browser-based simulation, making chromosome behavior and genetic recombination intuitive for students and educators.
 
 ### ✨ Core Features
 * **Interactive Stages**: Step-by-step visualization of Meiosis I and II.
