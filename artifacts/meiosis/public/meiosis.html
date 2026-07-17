@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-    <title>Meiosis – Complete with Interkinesis & Prophase II</title>
+    <title>Meiosis: Genesis Elucidator</title>
     <style>
         * { box-sizing: border-box; user-select: none; }
         body {
@@ -103,7 +103,7 @@
             background: #00000066;
             padding: 6px 14px;
             border-radius: 20px;
-            font-family: monospace;
+            font-family: 'Segoe UI', system-ui, sans-serif;
             font-size: 0.75rem;
             display: flex;
             flex-wrap: wrap;
@@ -143,7 +143,7 @@
 <div class="card">
     <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap;">
         <div>
-            <h1>🧬 Meiosis · Complete Accurate Simulation</h1>
+            <h1>🧬 Meiosis: Genesis Elucidator</h1>
             <div class="sub">Interphase → Leptotene → Zygotene → Pachytene → Metaphase I Attach → Independent Assortment → Anaphase I Initiation → Cytokinesis I → Interkinesis → Prophase II → Metaphase II → Anaphase II → Telophase II → Cytokinesis II → Gamete Maturation → Reproductive Anatomy</div>
         </div>
         <div class="badge">
@@ -5591,7 +5591,7 @@
                 if (crossingOverCompleted) {
                     ctx.save();
                     ctx.globalAlpha  = Math.min(1, baseAlpha) * 0.88;
-                    ctx.font         = 'bold 7px monospace';
+                    ctx.font         = 'bold 7px Segoe UI, system-ui, sans-serif';
                     ctx.fillStyle    = 'rgba(255, 250, 155, 0.92)';
                     ctx.textAlign    = 'center';
                     ctx.textBaseline = 'bottom';
@@ -5833,7 +5833,7 @@
             if (currentStage ===0) return; // no labels during interphase
             alpha = (alpha === undefined) ? 0.72 : alpha;
             ctx.save();
-            ctx.font = "bold 10px 'Segoe UI', monospace";
+            ctx.font = "bold 10px 'Segoe UI', system-ui, sans-serif";
             ctx.textAlign = "center";
             ctx.textBaseline = "middle";
             // Tiny dark shadow for legibility on any background
