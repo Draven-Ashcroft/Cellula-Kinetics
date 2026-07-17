@@ -2,7 +2,7 @@
   <img src="assets/repo-banner.png" alt="Cellula-Kinetics-Meiosis Banner" width="100%">
 </p>
 
-# 🧬 Genesis:Elucidator
+# 🧬 Genesis: Elucidator
 
 **Interactive Meiotic Division Simulator**
 
