@@ -1,34 +1,45 @@
 <p align="center">
-  <img src="assets/repo-banner.png" alt="Cellula-Kinetics-Meiosis Banner" width="100%">
+  <img src="assets/repo-banner.png" alt="Meiosis Genesis: Elucidator Banner" width="100%">
 </p>
 
 # 🧬 Meiosis Genesis: Elucidator
 
-**Interactive Meiotic Division Simulator**
+Interactive HTML simulator visualizing meiotic cell division, chromosome behavior, and genetic recombination.
 
 ---
 
-### 📖 Overview
-**Meiosis Genesis: Elucidator** is an interactive educational tool designed to visualize the complex stages of meiotic cell division. It transforms abstract biological processes into a guided, browser-based simulation, making chromosome behavior and genetic recombination intuitive for students and educators.
+## ✨ Features
 
-### ✨ Core Features
-* **Interactive Stages**: Step-by-step visualization of Meiosis I and II.
-* **Chromosome Dynamics**: Real-time modeling of homologous pairing, crossing over, and segregation.
-* **Educational Workflow**: Guided interface designed for clarity and scientific accuracy.
-* **Responsive Design**: Optimized for seamless use across desktop and mobile browsers.
+* **Interactive Stages:** Step-by-step simulation of Meiosis I and Meiosis II.
+* **Chromosome Dynamics:** Visualize homologous pairing, crossing over, and chromosome segregation.
+* **Educational Workflow:** Browser-based interface designed for scientific accuracy and learning.
+* **Responsive Design:** Optimized for desktop and mobile devices.
 
 ---
 
-### 🤝 Credits
-* **Replit**: Environment for application development and code construction.
-* **GitHub**: Version control and repository management.
-* **Vercel**: Deployment and cloud hosting.
-* **OpenAI**: Scientific debugging, testing, and optimization.
+## 🚀 Built With & Hosted On
+
+* **Repository:** GitHub
+* **Hosting:** Vercel
 
 ---
 
-### 📜 License
+## 🛠️ Credits & Acknowledgments
+
+* **Claude Sonnet:** Debugging, code generation & architecture.
+* **Replit:** Code improvisation & rapid prototyping.
+* **OpenAI:** Scientific debugging, testing & logic optimization.
+
+---
+
+## 👤 Author
+
+* **Draven Ashcroft**
+  * M.Sc. Ag. Entomology, ASRB NET
+  * DIPS Chain of Institutions
+
+---
+
+## 📜 License
+
 GPL-3.0
-
-### 👨‍🏫 Author
-**Draven-Ashcroft** | DIPS Chain of Institutions, Tanda
